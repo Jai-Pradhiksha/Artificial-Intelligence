@@ -74,7 +74,27 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ### Output:
-
+1. Placement data
+2. Salary data
+![image](https://github.com/Jai-Pradhiksha/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/100289733/004c0d4b-0d2b-4bd2-9749-f85a67e09b21)
+3. Checking the null function()
+![image](https://github.com/Jai-Pradhiksha/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/100289733/57785558-a3c3-4ec4-b3df-a1eea1b5d1c8)
+4. Data duplicate 
+![image](https://github.com/Jai-Pradhiksha/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/100289733/b243d88d-c465-45ad-bcf0-48e37d5b94c3)
+5. Print data
+![image](https://github.com/Jai-Pradhiksha/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/100289733/d3d90792-a7a7-4767-9e56-69297cc34224)
+6. Data status 
+![image](https://github.com/Jai-Pradhiksha/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/100289733/01e33a84-a060-4d15-a693-77c461480cac)
+7. y_prediction array
+![image](https://github.com/Jai-Pradhiksha/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/100289733/24b49a1a-a977-4f85-ba70-725ed9a5a8da)
+8. Accuracy value
+![image](https://github.com/Jai-Pradhiksha/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/100289733/7191b42e-4691-4236-b580-7398bfcc796d)
+9. Confusion matrix
+![image](https://github.com/Jai-Pradhiksha/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/100289733/e2451f20-84d0-407f-ad0b-0ac455983efe)
+10. Classification report
+![image](https://github.com/Jai-Pradhiksha/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/100289733/6417878f-3c1d-475b-a417-0716c0cf8794)
+11. Prediction of LR
+![image](https://github.com/Jai-Pradhiksha/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/100289733/16349aca-e50c-4f59-abcf-6b3469c1d7e7)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
