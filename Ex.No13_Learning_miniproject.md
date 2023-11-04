@@ -1,5 +1,5 @@
 # Ex.No: 10 Learning – Use Supervised Learning  
-### DATE:                                                                            
+### DATE: 28.10.2023                                                                        
 ### REGISTER NUMBER : 212221040062
 ### AIM: 
 To write a program to train the classifier for Predicting the Placement Status of Students.
